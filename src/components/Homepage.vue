@@ -36,7 +36,7 @@
   <div class="flex justify-center align-middle">
     <p
       id="bio"
-      class="border-solid border-celtic border-4 border-b-0 rounded-lg w-3/6 text-center text-lg"
+      class="border-solid border-celtic border-4 border-b-0 rounded-lg text-center text-lg sm:w-3/6"
     >
       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque minus
       repudiandae nam, repellendus architecto velit tempore culpa vero sed ut
