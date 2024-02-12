@@ -25,7 +25,6 @@
 </template>
 
 <script setup>
-import { defineEmits } from "vue";
 import Homepage from "./Homepage.vue";
 import Exercises from "./Exercises.vue";
 
